@@ -18,3 +18,4 @@ cp .env.example .env
 # Add your Supabase project URL and anon/publishable key to .env
 npm run dev
 ```
+Deployed with Vercel
